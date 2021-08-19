@@ -1,0 +1,87 @@
+    1  cat /etc/*-release
+    2  $ lsb_release -a
+    3  lsb_release -a
+    4  wsl --set-version Ubuntu 2
+    5  sudo apt install wsl
+    6  wsl --set-version Ubuntu 2
+    7  cd ..
+    8  cd ./79374
+    9  skjgbkbgkjrsgij
+   10  pip
+   11  where python
+   12  which python
+   13  which python3
+   14  which pip
+   15  where python
+   16  pip
+   17  pip3
+   18  python
+   19  python3
+   20  which python
+   21  python3 --version
+   22  python3
+   23  which python3
+   24  sudo -u postgres psql postgres
+   25  sudo apt-get install postgresql postgresql-server-dev-9.3
+   26  sudo
+   27  free -m
+   28  bash
+   29  ls
+   30  gcc
+   31  pwd
+   32  which gcc
+   33  cd //
+   34  ls
+   35  cd usr
+   36  cd ~
+   37  cd ..
+   38  cd ////
+   39  cd usr/bin
+   40  ls
+   41  gcc
+   42  cd gcc
+   43  head -n 3 gcc
+   44  ls | sort -r | tail -n 3
+   45  ls | sort -r | tail -n 3 contain gcc
+   46  ls | sort -r | tail -n 3
+   47  ls
+   48  ls sort -r
+   49  ls | sort -r
+   50  ls | sort -r | tail -n 3
+   51  ls | sort -r | tail -n
+   52  ls | sort -r | tail
+   53  gcc 
+   54  gcc main.cpp
+   55  clear
+   56  history
+   57  history > ex2.txt
+   58  cd ..
+   59  cd .
+   60  cd ..
+   61  cd home
+   62  cd~
+   63  cd ~
+   64  history > ex2.txt
+   65  ls
+   66  ex2.txt
+   67  gebit ex2.txt
+   68  gedit ex2.txt
+   69  sudo apt install gedit
+   70  gedit ex2.txt
+   71  gedit ~/week1/main.c
+   72  nano
+   73  ls
+   74  cd week1
+   75  cd main.c
+   76  ls > main.c
+   77  ls
+   78  cd mainc
+   79  cd main.c
+   80  nano
+   81  gcc main.c -o ex4
+   82  ./ex4
+   83  ls
+   84  nano
+   85  ls
+   86  sh ex3.sh
+   87  history > ex2.txt

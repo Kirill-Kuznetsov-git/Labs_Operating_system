@@ -1,0 +1,8 @@
+gcc-ranlib-9
+gcc-ranlib
+gcc-nm-9
+gcc-nm
+gcc-ar-9
+gcc-ar
+gcc-9
+gcc
