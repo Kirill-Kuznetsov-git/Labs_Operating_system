@@ -1,0 +1,9 @@
+A physical address is a normal address to some kind of information in RAM.
+
+The virtual address does not represent the actual physical address of the object
+in memory. The system save virtual address in the table and match to the 
+physical address.
+
+So, difference: 
+Virtual address can be whatever big since virtual memory is infinitely large for a process.
+Physical address is limited by the actual size of memory.
