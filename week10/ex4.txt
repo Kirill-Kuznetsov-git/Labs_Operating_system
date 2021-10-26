@@ -1,0 +1,3 @@
+16044073673100254 i-node
+/mnt/c/Users/79374/Labs_Operating_system/week10/link1
+/mnt/c/Users/79374/Labs_Operating_system/week10/tmp/file1
