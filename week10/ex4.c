@@ -12,11 +12,11 @@ int main() {
     DIR* tmp = opendir("tmp");
     struct dirent *dir = readdir(tmp);
     struct stat file;
-    char cmd[CMD_LENGTH] = "rm -f ex4.txt"; // remove file ignoring non-existent
+    char cmd[CMD_LENGTH] = "rm -f ex4.txt";
     system(cmd);
 
     while (dir != NULL){
-        if (dir->d_name[0] != '.'){ // a file read
+        if (dir->d_name[0] != '.'){
             char name[NAME_LENGTH];
             sprintf(name, "./tmp/%s", dir->d_name);
             stat(name, &file);
