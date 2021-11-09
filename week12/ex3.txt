@@ -1,0 +1,26 @@
+PE - I passed the Exam!"
+CAP - Get some cappuccino!"
+WGA - Want to get A!"
+42
+25
+P18
+I passed the Exam!
+E46
+c30
+a25
+Get some cappuccino!
+p34
+g17
+w30
+Want to get A!
+a17
+w34
+g30
+Want to get A!
+a46
+c25
+p30
+Get some cappuccino!
+a
+
+
